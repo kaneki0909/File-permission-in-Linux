@@ -12,7 +12,9 @@ Other permissions: Permissions for all other users on the system.
 Types of permissions that can be granted
 
 Read (r) - permission allows viewing the content of a file or directory.
+
 Write (w) - permission allows modifying or deleting a file or directory.
+
 Execute (x) -  permission allows running a file as a program or accessing the contents of a directory. 
 
 *Important tips*
