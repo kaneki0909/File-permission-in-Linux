@@ -30,8 +30,8 @@ Execute (x) -  permission allows running a file as a program or accessing the co
 - Combining read (r) and write (w) permissions allows complete control over a file, including modifying its contents.
 - Combining read (r) and execute (x) permissions on a file allows it to be read and executed as a program.
 
-  You can view the permissions of a file by using the ls -l command. This may not show the permissions of the hidden files. To view the permissions of the hidden files, we can use the ls -a command. To view both 
-  collectively, use ls -la.
+  You can view the permissions of a file by using the *ls -l* command. This may not show the permissions of the hidden files. To view the permissions of the hidden files, we can use the *ls -a* command. To view 
+  both collectively, use *ls -la*.
 
   *Changing Permissions*
   
