@@ -42,5 +42,6 @@ Execute (x) -  permission allows running a file as a program or accessing the co
 
 **Syntax** 
 
-chmod permission_class + previledge, file_name
+To add permission - chmod permission_class + privilege, file_name 
+To remove permission - chmod permission_class - privilege, file_name 
 
