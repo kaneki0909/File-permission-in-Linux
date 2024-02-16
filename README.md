@@ -1,9 +1,9 @@
 # File-permission-in-Linux
 Just a portfolio explaining the uses of Linux commands
 
-** chmod - The chmod command, short for "change mode," is a fundamental command in Unix and Unix-like operating systems, including Linux. It is used to modify the access permissions of files and directories. ** 
+**chmod - The chmod command, short for "change mode," is a fundamental command in Unix and Unix-like operating systems, including Linux. It is used to modify the access permissions of files and directories.** 
 
-*** Key Concepts: ***
+***Key Concepts***
 
 Owner permissions: Permissions for the owner of the file.
 Group permissions: Permissions for the group associated with the file.
