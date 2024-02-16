@@ -41,5 +41,6 @@ Execute (x) -  permission allows running a file as a program or accessing the co
 - "=": Sets the specified permissions.
 
 **Syntax** 
+
 chmod permission_class + previledge, file_name
 
