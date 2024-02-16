@@ -35,12 +35,12 @@ Execute (x) -  permission allows running a file as a program or accessing the co
 
   *Changing Permissions*
   
-- "+": Adds the specified permissions.
-- "-": Removes the specified permissions.
-- "=": Sets the specified permissions.
+- "+": Adds the specified permissions. <br>
+- "-": Removes the specified permissions.<br>
+- "=": Sets the specified permissions. <br>
 
 **Syntax** 
 
-To add permission - chmod permission_class + privilege, file_name 
-To remove permission - chmod permission_class - privilege, file_name 
+To add permission - chmod permission_class + privilege, file_name  <br>
+To remove permission - chmod permission_class - privilege, file_name <br>
 
